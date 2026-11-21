@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "e95922cb8170531a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3b7235387b93be9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78b9c681137909dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOKEN.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "TOKEN"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a99ec43c73c817d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e46f0fe318b43e50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9138e940adc3cf5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "34f0897557ca4a11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "a7192942877a83af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.6666564941406
+  },
+  "right": {
+    "id": "72373cf9609a45f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8ddfeb00fce507b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84e001ac1aa81f85",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DND SU.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "7f13006ccce1acae",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "a5d2a742bf894dc9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "9598b67ac129b2c9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "6c2e7a1afa83455c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Особое/Магические предметы/Магическое оружие/MICRO-HID.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "be8db323be30c33f",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "a8ff25012e66560c",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Особое/Магические предметы/Магическое оружие/MICRO-HID.md"
+              },
+              "icon": "lucide-info",
+              "title": "Свойства файла"
+            }
+          },
+          {
+            "id": "735389b080ac481d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Особое/Магические предметы/Магическое оружие/MICRO-HID.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "c80d36d775120b7e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-custom-frames:Open DNDSU": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "78b9c681137909dd",
+  "lastOpenFiles": [
+    "GIT/sync git.md",
+    "sync git.md",
+    "README.md",
+    "TOKEN.md",
+    "GIT/README.md",
+    "GIT",
+    "Персонажи/Осколок времени/Второй.md",
+    "Excalidraw/Drawing 2026-09-06 23.05.55.excalidraw.md",
+    "GIT/Sync.md",
+    "GIT",
+    "GIT",
+    "1790674988615 - Example.md",
+    "Особое/Магические предметы/Разное/Награда скверны (П).md",
+    "Особое/Бестиарий/Скверна/Добыча/Скверноточина (П).md",
+    "Особое/Бестиарий/Орден/Оперативники/Без названия.md",
+    "Особое/Бестиарий/Культ Мёркова",
+    "Для мастера/Свойства оружия.md",
+    "Особое/Бестиарий/Скверна/Эксперементальная популяция/Эксперементаль Поджигатель.md",
+    "Особое/Бестиарий/Скверна/Эксперементальная популяция/Эксперементаль Крикун.md",
+    "Особое/Бестиарий/Скверна/Эксперементальная популяция/Эксперементаль Берсеркер.md",
+    "Особое/Бестиарий/Скверна/Эксперементальная популяция/Эксперементаль Егерь ''Шарлотта''.md",
+    "Templates/Новый фрейм.md",
+    "Excalidraw/Drawing 2026-10-21 19.22.52.excalidraw.md",
+    "Особое/Магические предметы/Магическое оружие/Энергетическое оружие +1,2,3.md",
+    "Особое/Магические предметы/Магическое оружие/Клинок скверноточины.md",
+    "Особое/Магические предметы/Магическое оружие/MICRO-HID.md",
+    "Особое/Бестиарий/Скверна/Мутированная популяция/Оскверненная тварь.md",
+    "img/Pasted image 20261015191243.png",
+    "Бой Трекер/Тестовый.md",
+    "Для мастера/Лор",
+    "Особое/Бестиарий/Скверна/Мутированная популяция/Одержимый.md",
+    "Особое/Магические предметы/Разное/Плазматическая батарея.md",
+    "Особое/Бестиарий/Скверна/Мутированная популяция",
+    "Особое/Бестиарий/Скверна/Добыча",
+    "Особое/Бестиарий/Скверна/Эксперементальная популяция",
+    "Особое/Бестиарий/Монстры",
+    "Особое/Бестиарий/Орден/Оперативники"
+  ]
+}
