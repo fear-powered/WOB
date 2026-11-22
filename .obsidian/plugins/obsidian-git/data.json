@@ -25,7 +25,7 @@
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "gitServerPasswordSecret": "",
-  "refreshSourceControl": true,
+  "refreshSourceControl": false,
   "basePath": "",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
