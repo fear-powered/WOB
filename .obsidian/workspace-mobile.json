@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "89f1fbe2fb88966c",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd96f3fd635d7fee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fac403d202d7f0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Особое/Бестиарий/Скверна/Добыча/Скверноточина (Г).md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Скверноточина (Г)"
+            }
+          },
+          {
+            "id": "121f8db23e4b60d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Особое/Бестиарий/Скверна/Монстры/Порождение Скверноточины (Г).md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Порождение Скверноточины (Г)"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0dad9e3f4e781724",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a38762cd56aca460",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Файловый менеджер"
+        }
+      },
+      {
+        "id": "3f82e2c758944f0d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Поиск"
+        }
+      },
+      {
+        "id": "f81b9db270b37808",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Теги"
+        }
+      },
+      {
+        "id": "1a601a56c66b0ab3",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Все свойства"
+        }
+      },
+      {
+        "id": "70350883f294112e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-bookmark",
+          "title": "Закладки"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "884586017fccd6bd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "274f435d4978c8ae",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Обратные ссылки"
+        }
+      },
+      {
+        "id": "2cbb3d34dcf99e65",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Исходящие ссылки"
+        }
+      },
+      {
+        "id": "9dc9bfa373cb7bc9",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Структура"
+        }
+      },
+      {
+        "id": "95481f4de8d644da",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {},
+          "icon": "dices",
+          "title": "Dice Tray"
+        }
+      },
+      {
+        "id": "59a06b00f21c8c3d",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {},
+          "icon": "initiative-tracker",
+          "title": "Initiative Tracker"
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "121f8db23e4b60d7",
+  "lastOpenFiles": [
+    "Особое/Бестиарий/Скверна/Добыча/Скверноточина (Г).md",
+    "Особое/Бестиарий/Скверна/Монстры/Порождение Скверноточины (Г).md",
+    "Особое/Бестиарий/Скверна/Монстры",
+    "Особое/Магические предметы/Разное/Ядро Скверноточины (Г).md",
+    "Особое/Магические предметы/Разное/Батарея промышленного качества.md",
+    "Особое/Магические предметы/Разное/Плазматическая батарея.md",
+    "Особое/Бестиарий/Скверна/Эксперементальная популяция/Эксперементаль Егерь ''Шарлотта''.md",
+    "Особое/Бестиарий/Скверна/Эксперементальная популяция/Эксперементаль Поджигатель.md",
+    "Особое/Бестиарий/Скверна/Эксперементальная популяция/Эксперементаль Берсеркер.md",
+    "Для мастера/Осквернение.md",
+    "Для мастера/Свойства оружия.md",
+    "Особое/Магические предметы/Магическое оружие/Энергетическое оружие +1,2,3.md",
+    "1790674988615 - Example.md",
+    "Особое/Бестиарий/Скверна/Эксперементальная популяция/Эксперементаль Крикун.md",
+    "Особое/Бестиарий/Скверна/Мутированная популяция/Оскверненная тварь.md",
+    "Особое/Бестиарий/Скверна/Мутированная популяция/Одержимый.md",
+    "Особое/Бестиарий/Орден/Оперативники/Без названия.md",
+    "Особое/Магические предметы/Магическое оружие/Клинок скверноточины.md",
+    "Особое/Магические предметы/Магическое оружие/MICRO-HID.md",
+    "Персонажи/Осколок времени/Первый.md",
+    "Персонажи/Осколок времени/Второй.md",
+    "Templates/Шаблоны Монстров/Вставить обычного монстра.md",
+    "Templates/Шаблоны Монстров/Вставить обычного монстра (рассудок).md",
+    "Templates/Шаблоны Монстров/Вставить монстра.md",
+    "Templates/Шаблоны Монстров/Вставить легендарного монстра.md",
+    "Templates/Шаблоны Боя/Вставить несколько Боёв.md",
+    "Templates/Шаблоны Боя/Вставить Случайную Таблицу Боя.md",
+    "Особое/Бестиарий/Скверна/Эксперементальная популяция",
+    "Особое/Бестиарий/Скверна/Мутированная популяция",
+    "Особое/Бестиарий/Скверна/Добыча",
+    "Особое/Бестиарий/Орден/Оперативники",
+    "Особое/Магические предметы/Разное",
+    "Особое/Магические предметы/Магическое оружие",
+    "Особое/Бестиарий/Скверна",
+    "Особое/Бестиарий/Орден",
+    "Персонажи/Осколок времени"
+  ]
+}
