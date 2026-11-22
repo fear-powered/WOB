@@ -190,9 +190,19 @@
           "icon": "initiative-tracker",
           "title": "Initiative Tracker"
         }
+      },
+      {
+        "id": "d4e3bb4de0de0bcc",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 4
+    "currentTab": 5
   },
   "left-ribbon": {
     "hiddenItems": {
